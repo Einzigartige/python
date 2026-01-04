@@ -4,7 +4,7 @@ from collections import deque
 
 # -----------------------------
 # 1. Tree Node Definition
-# (DO NOT CHANGE — kept exactly as requested)
+# (DO NOT CHANGE - kept exactly as requested)
 # -----------------------------
 
 class Node:
